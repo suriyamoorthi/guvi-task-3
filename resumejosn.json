@@ -1,0 +1,42 @@
+{
+    "basics": {
+        "name": "suriyamoorthi",
+        "age": "30",
+        "country": "india",
+        "email": 8248910351,
+        "lable": "student",
+        "summary": "djsijhgjshg",
+        "location": {
+            "doorno": "33",
+            "street": "manthakari",
+            "post": "vilagam",
+            "native": "puthuvilgam",
+            "thuluka": "chiyhambaram",
+            "district": "cuddlore",
+            "pincode": "608305"
+        },
+        "college": {
+            "collage": "annamaliuversity",
+            "city": "cithambaram",
+            "qulafiction": "BE-electrical and eletronics enggnering",
+            "yearofpassing": "2020",
+            "percentageofmark": "68%"
+        },
+        "school": [
+            {
+                "school": "Govt.hr.sec.school",
+                "city": "neduncheri",
+                "qulafiction": 12,
+                "yearofpassing": "2016",
+                "percentageofmark": "60%"
+            },
+            {
+                "school": "Govt.hr.sec.school",
+                "city": "neduncheri",
+                "qulafiction": 10,
+                "yearofpassing": "2014",
+                "percentageofmark": "83%"
+            }
+        ]
+    }
+}
